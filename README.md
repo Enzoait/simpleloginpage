@@ -1,3 +1,3 @@
-# Simple Login Page v0.4
+# Simple Login Page v0.5
 
-Fonctionnalités : 
+Une simple page de connexion. Seulement en front pour l'instant.
